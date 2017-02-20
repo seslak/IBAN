@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 /**
- * IBAN Checker v0.9
+ * IBAN Checker v0.91
  * Created by Siniša Šešlak.
  * Date: 3/3/15
  *
@@ -61,6 +61,6 @@ while (substr($alphabet,$i_c,1) != strtoupper($iban_convert)) { $i_c++; }
 return $i_c+10;
 }
 
-echo "IBAN= " . strtoupper($iban) . " is " . _iban($iban);
+echo _iban($iban);
 
 ?>
