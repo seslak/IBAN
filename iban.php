@@ -1,6 +1,6 @@
 ﻿<?php
 /**
- * IBAN Checker v0.92
+ * IBAN Checker v0.91b
  * Created by Siniša Šešlak.
  * Date: 3/3/15
  *
