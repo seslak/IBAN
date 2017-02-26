@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:IBAN}
+
+# IBAN
 This is in development IBAN validation, creation, and conversion IBAN repository.
  
 ## Installation
@@ -30,7 +29,3 @@ Basic IBAN validation algorithm was created.
 
 ## License
 GNU GENERAL PUBLIC LICENSE v3
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
