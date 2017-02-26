@@ -21,10 +21,13 @@ offer more options.
 5. Submit a pull request :D
 
 ## History
-0.91 - Feb, 2017.
+v0.91b - Feb, 2017.
+changed source file name and added comments.
+
+v0.91 - Feb, 2017.
 Revived as a more complex idea for repository. README was created. Placed on GitHub.
 
-v0.9 - March, 2015.
+v0.90 - March, 2015.
 Basic IBAN validation algorithm was created.
 
 ## License
