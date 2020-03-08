@@ -5,7 +5,7 @@ This is in development IBAN validation, creation, and conversion IBAN repository
 ## Installation
 Just place it in your server directory where you want to use it.
 
-##Usage
+## Usage
 It is a php based repository so the usage is basic and simple:
 
 `iban.php?IBAN=IBAN_NUMBER`
